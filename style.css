@@ -1,0 +1,12 @@
+.my-container{
+  width: 30vw;
+  height:60vh;
+  border-radius: 20px;
+  margin: 80px auto;
+}
+.header{
+  width: 100vw;
+  height: 10vh;
+  background-color: red;
+
+}
